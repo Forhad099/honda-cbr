@@ -1,0 +1,45 @@
+.style1{
+    text-decoration: none;
+    
+}
+/* Fetured Bikes 2021 */
+.images1{
+    Width:288px;
+    Height:243px;
+}
+
+#images2{
+    filter: grayscale(1);
+    -webkit-filter: grayscale(1);
+}
+/* Fetured Bikes 2021 */
+
+/* Happy Clients says */
+.font-size2{
+    font-size: 48px;
+}
+.color-mark{
+    color: #E76F51;
+}
+
+.images-size{
+    Width:149px;
+    Height:149px;
+}
+
+.fa-star{
+    font-size: 20px;
+}
+.fa-star.filled{
+    color: #E77C40;
+
+}
+.fa-star.empty{
+    color: #aeaeae;
+}
+
+.miles-color{
+    color: #23A6F0;
+}
+
+/* Happy Clients says */
